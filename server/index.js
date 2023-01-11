@@ -7,7 +7,7 @@ const PORT = 3001
 
 
 app.get('/', (req, res) => {
-    res.send("Hello WOrld")
+    res.send("Hello Wxaxaxdd")
 })
 app.listen(PORT, ()=> {
     console.log("server is running");
